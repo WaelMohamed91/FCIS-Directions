@@ -1,0 +1,314 @@
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v18.2.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v18.2.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v18.2.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v18.2.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.mainform.resources
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.admin.resources
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Login.resources
+c:\users\mashhour\documents\visual studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.ExpressApp.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Persistent.Base.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.ExpressApp.v18.2.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Persistent.Base.v18.2.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.ExpressApp.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.ExpressApp.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.ExpressApp.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.ExpressApp.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Persistent.Base.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Persistent.Base.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Persistent.Base.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Persistent.Base.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.addform.resources
+C:\Users\MASHHOUR\Documents\Visual Studio 2015\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.update.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.addform.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.mainform.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.admin.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Login.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.update.resources
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.addform.resources
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.mainform.resources
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.admin.resources
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Login.resources
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.update.resources
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.ExpressApp.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Persistent.Base.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraReports.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.DataAccess.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.CodeParser.v18.2.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\stdole.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.ExpressApp.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Persistent.Base.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraReports.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.ExpressApp.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.ExpressApp.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.ExpressApp.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.ExpressApp.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Persistent.Base.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Persistent.Base.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Persistent.Base.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Persistent.Base.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.addform.resources
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.mainform.resources
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.admin.resources
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Login.resources
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.update.resources
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+D:\MY COLLEGE\third year (2)\Database\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\hp\Downloads\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Reportform.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\hp\Downloads\DB_With report\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\hp\Downloads\DB_With report\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\hp\Downloads\DB_With report\DXApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.addform.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.mainform.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.admin.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.Login.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.Master_Details.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.Reportform.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.update.resources
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\DB_With report\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.exe
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.pdb
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.addform.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.mainform.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.admin.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.Login.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.Master_Details.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.Reportform.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.update.resources
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Data Base\Project\phase 2\New folder\DB_With report\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+E:\Computer Science\My Projects\DB_With report\DXApplication1\obj\Debug\DXApplication1.exe
+E:\Computer Science\My Projects\DB_With report\DXApplication1\obj\Debug\DXApplication1.pdb
